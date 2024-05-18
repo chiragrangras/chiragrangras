@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chirag Rangras</h1>
 <h3 align="center">Frontend | React Developer</h3>
 
-- 🔭 I’m currently working on [Online apparel store](https://stirring-chimera-fc8c36.netlify.app/)
+- 🔭 I’m currently working on [Online apparel store](https://stirring-chimera-fc8c36.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
 
 - 👯 I’m looking to collaborate on *frontend related projects with the focus on web-design and react development*
 
