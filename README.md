@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chirag Rangras</h1>
 <h3 align="center">Frontend | React Developer</h3>
 
-- 🔭 I’m proud of my work demonstrated here: [Author-reflection-bootstrap-sitel store](https://author-reflection-bootstrap-site.netlify.app/landing/landing.html) - [Code](https://github.com/chiragrangras/author-reflection-bootstrap-site)
+- 🔭 I’m proud of my work demonstrated here: [Author-reflection-bootstrap-site store](https://author-reflection-bootstrap-site.netlify.app/landing/landing.html) - [Code](https://github.com/chiragrangras/author-reflection-bootstrap-site)
 
 - 🔭 I have also built [Online apparel store](https://online-apparel-shop.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
   
