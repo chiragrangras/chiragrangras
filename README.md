@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about *Accounting, HTML, CSS, Javascript, JQuery, Bootstrap and React*
 
 - 📫 How to reach me *chiragrangras@hotmail.com*
-- :page_with_curl: Available for work: [Resume](https://drive.google.com/drive/u/0/folders/1_rJZ3cvcKCKw6cVurWFPFFPOiVf9o0Ms)
+- :page_with_curl: Available for work: [Resume](https://drive.google.com/drive/u/0/folders/1_rJZ3cvcKCKw6cVurWFPFFPOiVf9o0Ms/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
