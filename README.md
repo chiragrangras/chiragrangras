@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chirag Rangras</h1>
 <h3 align="center">Frontend | React Developer</h3>
 
-- 🔭 I’m currently working on [Author-reflection-bootstrap-sitel store](https://author-reflection-bootstrap-site.netlify.app/landing/landing.html) - [Code](https://github.com/chiragrangras/author-reflection-bootstrap-site)
+- 🔭 I’m proud of my work demonstrated here: [Author-reflection-bootstrap-sitel store](https://author-reflection-bootstrap-site.netlify.app/landing/landing.html) - [Code](https://github.com/chiragrangras/author-reflection-bootstrap-site)
 
-- 🔭 I’m completed working on [Online apparel store](https://online-apparel-shop.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
+- 🔭 I have also built [Online apparel store](https://online-apparel-shop.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
   
 - 👯 I’m looking to collaborate on *frontend related projects with the focus on web-design and react development*
 
@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about *Accounting, HTML, CSS, Javascript, JQuery, Bootstrap and React*
 
 - 📫 How to reach me *chiragrangras@hotmail.com*
-- :page_with_curl: Available for work: [Resume](https://drive.google.com/drive/u/0/folders/1_rJZ3cvcKCKw6cVurWFPFFPOiVf9o0Ms/view)
+- :page_with_curl: Available for work: [Resume](https://drive.google.com/file/d/14jfTrfmNdWTpySHK7FvrzD-yi1Mq_skt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chirag-rangras-626a75133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-rangras-626a75133/" height="30" width="40" /></a>
 </p>
-
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
