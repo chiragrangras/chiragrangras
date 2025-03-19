@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chirag Rangras</h1>
 <h3 align="center">Frontend | React Developer</h3>
 
-- 🔭 I’m currently working on [Online apparel store](https://warm-pothos-39f2fb.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
+- 🔭 I’m currently working on [Online apparel store](https://author-reflection-bootstrap-site.netlify.app/landing/landing.html) - [Code](https://github.com/chiragrangras/author-reflection-bootstrap-site)
 
+- 🔭 I’m completed working on [Online apparel store](https://online-apparel-shop.netlify.app/) - [Code](https://github.com/chiragrangras/online-apparel-shop)
+  
 - 👯 I’m looking to collaborate on *frontend related projects with the focus on web-design and react development*
 
 - 👨‍💻 All of my projects are available at [https://github.com/chiragrangras](https://github.com/chiragrangras)
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about *Accounting, HTML, CSS, Javascript, JQuery, Bootstrap and React*
 
 - 📫 How to reach me *chiragrangras@hotmail.com*
-- :page_with_curl: Available for work: [Resume](https://drive.google.com/file/d/1eRlQQEoEgl4TmsrsOC7rUFjqfdCTieDg/view)
+- :page_with_curl: Available for work: [Resume](https://drive.google.com/drive/u/0/folders/1_rJZ3cvcKCKw6cVurWFPFFPOiVf9o0Ms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +40,3 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragrangras&show_icons=true&locale=en&layout=compact" alt="chiragrangras" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragrangras&" alt="chiragrangras" /></p>
